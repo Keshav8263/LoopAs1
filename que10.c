@@ -13,3 +13,10 @@ int main()
     }
     printf("The count number of : %d", count);
 }
+/*
+Output:
+
+Enter the n value:12345
+the value of n 12345
+The count number of : 5
+*/
